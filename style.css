@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+  direction: ltr;
+  text-align: left;
+  margin: 0;
+  padding: 20px;
+}
+
+header, section, footer {
+  margin-bottom: 40px;
+}
+
+header h1 {
+  font-size: 2em;
+  color: #007acc;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
